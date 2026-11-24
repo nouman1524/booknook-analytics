@@ -1,0 +1,28 @@
+{
+  "raw_rows": 5058,
+  "exact_duplicate_rows_removed": 60,
+  "rows_rejected": 167,
+  "rejected_rows_by_reason": {
+    "unrecognised_email": 77,
+    "missing_or_invalid_date": 55,
+    "missing_quantity": 20,
+    "non_positive_quantity": 15
+  },
+  "rejected_orders_by_reason": {
+    "missing_or_invalid_date": 30,
+    "missing_quantity": 20,
+    "non_positive_quantity": 15,
+    "unrecognised_email": 45
+  },
+  "unit_prices_recovered_from_catalogue": 74,
+  "email_normalised_rows": 287,
+  "orders_to_load": 2912,
+  "order_items_to_load": 4831,
+  "revenue_to_load_pkr": 7353000.0,
+  "rows_loaded": {
+    "customers": 300,
+    "products": 150,
+    "orders": 2912,
+    "order_items": 4831
+  }
+}
