@@ -21,7 +21,7 @@ rng = np.random.default_rng(SEED)
 OUT = Path(__file__).resolve().parents[1] / "data"
 OUT.mkdir(parents=True, exist_ok=True)
 
-N_CUSTOMERS, N_ORDERS = 300, 3000
+N_CUSTOMERS, N_ORDERS = 1000, 3000
 START, END = pd.Timestamp("2026-04-01"), pd.Timestamp("2026-09-30")
 MONTH_MULT = {4: 0.9, 5: 1.0, 6: 0.95, 7: 1.0, 8: 1.3, 9: 1.15}  # August: back-to-school
 

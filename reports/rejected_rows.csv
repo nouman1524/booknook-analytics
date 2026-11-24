@@ -1,168 +1,175 @@
 order_ref,customer_email,order_date,status,product_id,quantity,unit_price,payment_method,reject_reason
-B5016,rehan.hussain@example.com,,Completed,101,1.0,550.0,JazzCash,missing_or_invalid_date
-B5026,omer.chaudhry@example.com,2026-04-05,Completed,22,-1.0,900.0,JazzCash,non_positive_quantity
-B5059,kamran.iqbal2@exmaple.com,2026-04-10,Completed,147,2.0,1000.0,Card,unrecognised_email
-B5090,sara.ahmed@example.com,2026-04-12,Completed,4,0.0,1300.0,Card,non_positive_quantity
-B5125,guest9@example.com,2026-04-17,Completed,69,1.0,1150.0,JazzCash,unrecognised_email
-B5168,rehan.hussain@example.com,2026-04-22,Completed,57,-1.0,1500.0,Cash on Delivery,non_positive_quantity
-B5169,ayesha.ahmed@example.com,,Returned,77,1.0,850.0,Cash on Delivery,missing_or_invalid_date
-B5169,ayesha.ahmed@example.com,,Returned,134,2.0,1200.0,Cash on Delivery,missing_or_invalid_date
-B5169,ayesha.ahmed@example.com,,Returned,8,2.0,900.0,Cash on Delivery,missing_or_invalid_date
-B5198,adeel.javed@example.com,,Completed,14,1.0,1100.0,Cash on Delivery,missing_or_invalid_date
-B5198,adeel.javed@example.com,,Completed,106,1.0,700.0,Cash on Delivery,missing_or_invalid_date
-B5198,adeel.javed@example.com,,Completed,68,1.0,1550.0,Cash on Delivery,missing_or_invalid_date
-B5214,iqra.ahmed@example.com,,Completed,102,1.0,500.0,Cash on Delivery,missing_or_invalid_date
-B5214,iqra.ahmed@example.com,,Completed,5,2.0,1250.0,Cash on Delivery,missing_or_invalid_date
-B5236,hassan.malik@example.com,2026-04-29,Completed,54,,1200.0,Card,missing_quantity
-B5273,areeba.mirza@example.com,2026-05-03,Completed,89,,1050.0,Cash on Delivery,missing_quantity
-B5282,guest11@example.com,2026-05-04,Completed,17,1.0,800.0,Card,unrecognised_email
-B5282,guest11@example.com,2026-05-04,Completed,131,1.0,950.0,Card,unrecognised_email
-B5320,daniyal.malik2@example.com,2026-05-08,Completed,131,,950.0,Cash on Delivery,missing_quantity
-B5347,mehak.chaudhry2@example.com,,Completed,99,1.0,500.0,Cash on Delivery,missing_or_invalid_date
-B5351,faizan.sheikh@exmaple.com,2026-05-10,Completed,89,3.0,1050.0,Easypaisa,unrecognised_email
-B5370,faizan.sheikh@example.com,2026-05-13,Completed,29,,1200.0,JazzCash,missing_quantity
-B5371,faizan.farooq2@exmaple.com,2026-05-13,Completed,17,1.0,800.0,Cash on Delivery,unrecognised_email
-B5371,faizan.farooq2@exmaple.com,2026-05-13,Completed,131,1.0,950.0,Cash on Delivery,unrecognised_email
-B5389,guest29@example.com,2026-05-15,Completed,102,1.0,500.0,Cash on Delivery,unrecognised_email
-B5394,adeel.aslam@example.com,2026-05-15,Completed,17,-1.0,800.0,Easypaisa,non_positive_quantity
-B5401,guest35@example.com,2026-05-15,Completed,54,1.0,1200.0,Cash on Delivery,unrecognised_email
-B5401,guest35@example.com,2026-05-15,Completed,133,1.0,1550.0,Cash on Delivery,unrecognised_email
-B5444,sara.chaudhry@exmaple.com,2026-05-19,Completed,13,1.0,850.0,Cash on Delivery,unrecognised_email
-B5444,sara.chaudhry@exmaple.com,2026-05-19,Completed,28,2.0,1700.0,Cash on Delivery,unrecognised_email
-B5444,sara.chaudhry@exmaple.com,2026-05-19,Completed,114,1.0,400.0,Cash on Delivery,unrecognised_email
-B5509,guest3@example.com,2026-05-26,Completed,124,1.0,2650.0,Cash on Delivery,unrecognised_email
-B5559,guest7@example.com,2026-05-29,Completed,119,2.0,1500.0,Cash on Delivery,unrecognised_email
-B5567,rabia.javed@exmaple.com,2026-05-30,Completed,60,1.0,1300.0,Cash on Delivery,unrecognised_email
-B5575,kamran.baig@exmaple.com,2026-05-31,Completed,52,2.0,1950.0,Card,unrecognised_email
-B5580,laiba.nawaz@exmaple.com,2026-05-31,Completed,114,1.0,400.0,Cash on Delivery,unrecognised_email
-B5580,laiba.nawaz@exmaple.com,2026-05-31,Completed,102,1.0,500.0,Cash on Delivery,unrecognised_email
-B5580,laiba.nawaz@exmaple.com,2026-05-31,Completed,131,1.0,950.0,Cash on Delivery,unrecognised_email
-B5580,laiba.nawaz@exmaple.com,2026-05-31,Completed,101,1.0,550.0,Cash on Delivery,unrecognised_email
-B5605,kamran.baig@example.com,2026-06-02,Completed,65,,950.0,Easypaisa,missing_quantity
-B5618,guest43@example.com,2026-06-03,Completed,50,1.0,2400.0,Cash on Delivery,unrecognised_email
-B5618,guest43@example.com,2026-06-03,Completed,98,2.0,600.0,Cash on Delivery,unrecognised_email
-B5633,bilal.sheikh@example.com,2026-06-04,Completed,5,,1250.0,Easypaisa,missing_quantity
-B5643,guest1@example.com,2026-06-05,Completed,123,2.0,1350.0,JazzCash,unrecognised_email
-B5643,guest1@example.com,2026-06-05,Completed,114,1.0,400.0,JazzCash,unrecognised_email
-B5645,kamran.shah@example.com,2026-06-05,Completed,129,,1400.0,Cash on Delivery,missing_quantity
-B5665,kamran.hussain2@exmaple.com,2026-06-07,Completed,102,1.0,500.0,Cash on Delivery,unrecognised_email
-B5665,kamran.hussain2@exmaple.com,2026-06-07,Completed,143,1.0,800.0,Cash on Delivery,unrecognised_email
-B5665,kamran.hussain2@exmaple.com,2026-06-07,Completed,53,1.0,1800.0,Cash on Delivery,unrecognised_email
-B5679,fatima.ahmed@example.com,,Completed,74,1.0,700.0,Cash on Delivery,missing_or_invalid_date
-B5679,fatima.ahmed@example.com,,Completed,132,1.0,1300.0,Cash on Delivery,missing_or_invalid_date
-B5679,fatima.ahmed@example.com,,Completed,73,1.0,1050.0,Cash on Delivery,missing_or_invalid_date
-B5679,fatima.ahmed@example.com,,Completed,11,2.0,1450.0,Cash on Delivery,missing_or_invalid_date
-B5748,hassan.farooq@exmaple.com,2026-06-14,Completed,28,1.0,1700.0,Cash on Delivery,unrecognised_email
-B5759,daniyal.siddiqui@example.com,,Completed,101,1.0,550.0,Cash on Delivery,missing_or_invalid_date
-B5799,areeba.javed2@example.com,,Completed,136,1.0,950.0,Card,missing_or_invalid_date
-B5839,mehak.chaudhry2@example.com,2026-06-21,Completed,142,-1.0,950.0,Cash on Delivery,non_positive_quantity
-B5852,guest15@example.com,2026-06-22,Completed,68,1.0,1550.0,Cash on Delivery,unrecognised_email
-B5852,guest15@example.com,2026-06-22,Completed,28,1.0,1700.0,Cash on Delivery,unrecognised_email
-B5861,zara.hussain@exmaple.com,2026-06-23,Cancelled,55,1.0,2500.0,Cash on Delivery,unrecognised_email
-B5914,daniyal.rauf@example.com,2026-06-27,Completed,45,0.0,2400.0,JazzCash,non_positive_quantity
-B5921,nimra.javed@example.com,2026-06-28,Cancelled,102,,500.0,Cash on Delivery,missing_quantity
-B6017,ayesha.nawaz3@example.com,2026-07-04,Completed,44,,2350.0,Card,missing_quantity
-B6059,usman.rauf2@example.com,,Returned,76,1.0,1900.0,JazzCash,missing_or_invalid_date
-B6088,hamza.mirza@exmaple.com,2026-07-10,Completed,42,1.0,1150.0,Cash on Delivery,unrecognised_email
-B6088,hamza.mirza@exmaple.com,2026-07-10,Completed,114,1.0,400.0,Cash on Delivery,unrecognised_email
-B6088,hamza.mirza@exmaple.com,2026-07-10,Completed,102,1.0,500.0,Cash on Delivery,unrecognised_email
-B6090,guest17@example.com,2026-07-10,Completed,114,1.0,400.0,Card,unrecognised_email
-B6118,sara.khan@example.com,,Completed,7,1.0,950.0,Card,missing_or_invalid_date
-B6118,sara.khan@example.com,,Completed,114,1.0,400.0,Card,missing_or_invalid_date
-B6118,sara.khan@example.com,,Completed,85,1.0,1000.0,Card,missing_or_invalid_date
-B6135,kamran.butt@example.com,,Cancelled,113,1.0,1050.0,Easypaisa,missing_or_invalid_date
-B6135,kamran.butt@example.com,,Cancelled,86,1.0,1400.0,Easypaisa,missing_or_invalid_date
-B6163,daniyal.malik@example.com,2026-07-15,Completed,114,,400.0,Cash on Delivery,missing_quantity
-B6198,guest23@example.com,2026-07-17,Completed,42,2.0,1150.0,Easypaisa,unrecognised_email
-B6246,guest37@example.com,2026-07-20,Completed,82,1.0,1250.0,Cash on Delivery,unrecognised_email
-B6246,guest37@example.com,2026-07-20,Completed,114,1.0,400.0,Cash on Delivery,unrecognised_email
-B6293,usman.rauf2@example.com,,Completed,68,1.0,1550.0,Cash on Delivery,missing_or_invalid_date
-B6318,faizan.sheikh@example.com,2026-07-25,Completed,114,0.0,400.0,JazzCash,non_positive_quantity
-B6393,fatima.ahmed@example.com,,Completed,18,3.0,850.0,Cash on Delivery,missing_or_invalid_date
-B6393,fatima.ahmed@example.com,,Completed,61,1.0,700.0,Cash on Delivery,missing_or_invalid_date
-B6400,laiba.nawaz@exmaple.com,2026-07-31,Completed,10,2.0,950.0,Cash on Delivery,unrecognised_email
-B6401,nimra.nawaz@example.com,2026-07-31,Completed,101,,550.0,Cash on Delivery,missing_quantity
-B6430,rehan.anwar@example.com,,Completed,119,1.0,1500.0,JazzCash,missing_or_invalid_date
-B6450,guest27@example.com,2026-08-02,Cancelled,112,1.0,900.0,Cash on Delivery,unrecognised_email
-B6450,guest27@example.com,2026-08-02,Cancelled,108,2.0,650.0,Cash on Delivery,unrecognised_email
-B6488,guest13@example.com,2026-08-04,Cancelled,52,1.0,1950.0,Cash on Delivery,unrecognised_email
-B6513,fatima.nawaz@exmaple.com,2026-08-05,Completed,65,1.0,950.0,Cash on Delivery,unrecognised_email
-B6513,fatima.nawaz@exmaple.com,2026-08-05,Completed,30,1.0,1400.0,Cash on Delivery,unrecognised_email
-B6513,fatima.nawaz@exmaple.com,2026-08-05,Completed,42,1.0,1150.0,Cash on Delivery,unrecognised_email
-B6549,noor.farooq@example.com,,Completed,50,1.0,2400.0,Cash on Delivery,missing_or_invalid_date
-B6549,noor.farooq@example.com,,Completed,114,1.0,400.0,Cash on Delivery,missing_or_invalid_date
-B6549,noor.farooq@example.com,,Completed,125,1.0,2450.0,Cash on Delivery,missing_or_invalid_date
-B6550,guest19@example.com,2026-08-07,Completed,119,2.0,1500.0,Cash on Delivery,unrecognised_email
-B6615,guest25@example.com,2026-08-10,Completed,102,1.0,500.0,Cash on Delivery,unrecognised_email
-B6615,guest25@example.com,2026-08-10,Completed,93,2.0,700.0,Cash on Delivery,unrecognised_email
-B6650,waqas.iqbal@example.com,2026-08-12,Completed,99,-1.0,500.0,Card,non_positive_quantity
-B6661,imran.rauf@example.com,2026-08-12,Completed,86,,1400.0,Easypaisa,missing_quantity
-B6662,talha.nawaz2@example.com,,Completed,5,1.0,1250.0,Cash on Delivery,missing_or_invalid_date
-B6662,talha.nawaz2@example.com,,Completed,145,1.0,1050.0,Cash on Delivery,missing_or_invalid_date
-B6662,talha.nawaz2@example.com,,Completed,102,1.0,500.0,Cash on Delivery,missing_or_invalid_date
-B6699,sara.butt@example.com,,Completed,110,1.0,1000.0,Cash on Delivery,missing_or_invalid_date
-B6730,guest33@example.com,2026-08-15,Completed,114,1.0,400.0,Cash on Delivery,unrecognised_email
-B6757,guest31@example.com,2026-08-16,Completed,91,1.0,450.0,Easypaisa,unrecognised_email
-B6771,guest39@example.com,2026-08-17,Completed,101,1.0,550.0,Cash on Delivery,unrecognised_email
-B6808,daniyal.butt@example.com,2026-08-19,Completed,12,,950.0,Cash on Delivery,missing_quantity
-B6852,waqas.iqbal@exmaple.com,2026-08-21,Completed,102,2.0,500.0,Cash on Delivery,unrecognised_email
-B6852,waqas.iqbal@exmaple.com,2026-08-21,Completed,50,1.0,2400.0,Cash on Delivery,unrecognised_email
-B6852,waqas.iqbal@exmaple.com,2026-08-21,Completed,101,1.0,550.0,Cash on Delivery,unrecognised_email
-B6861,zara.anwar@exmaple.com,2026-08-22,Completed,49,1.0,2250.0,Cash on Delivery,unrecognised_email
-B6861,zara.anwar@exmaple.com,2026-08-22,Completed,21,1.0,1750.0,Cash on Delivery,unrecognised_email
-B6861,zara.anwar@exmaple.com,2026-08-22,Completed,144,1.0,650.0,Cash on Delivery,unrecognised_email
-B6949,saad.javed3@exmaple.com,2026-08-26,Completed,73,1.0,1050.0,Easypaisa,unrecognised_email
-B6950,omer.butt@example.com,,Completed,140,1.0,1200.0,Cash on Delivery,missing_or_invalid_date
-B6950,omer.butt@example.com,,Completed,40,1.0,900.0,Cash on Delivery,missing_or_invalid_date
-B6953,maryam.siddiqui@example.com,,Completed,5,1.0,1250.0,Easypaisa,missing_or_invalid_date
-B6953,maryam.siddiqui@example.com,,Completed,92,1.0,900.0,Easypaisa,missing_or_invalid_date
-B7005,maryam.rauf@example.com,,Completed,61,1.0,700.0,Cash on Delivery,missing_or_invalid_date
-B7016,areeba.javed2@example.com,2026-08-29,Completed,101,-1.0,550.0,Cash on Delivery,non_positive_quantity
-B7043,laiba.rauf@example.com,2026-08-30,Completed,101,-1.0,550.0,Cash on Delivery,non_positive_quantity
-B7044,adeel.javed@example.com,2026-08-30,Completed,114,,400.0,JazzCash,missing_quantity
-B7055,zara.qureshi@example.com,2026-08-31,Completed,60,,1300.0,Cash on Delivery,missing_quantity
-B7098,hamza.qureshi@example.com,2026-09-02,Completed,141,0.0,1650.0,JazzCash,non_positive_quantity
-B7118,iqra.sheikh@example.com,,Completed,52,2.0,1950.0,Cash on Delivery,missing_or_invalid_date
-B7118,iqra.sheikh@example.com,,Completed,130,3.0,2450.0,Cash on Delivery,missing_or_invalid_date
-B7118,iqra.sheikh@example.com,,Completed,112,1.0,900.0,Cash on Delivery,missing_or_invalid_date
-B7118,iqra.sheikh@example.com,,Completed,134,1.0,1200.0,Cash on Delivery,missing_or_invalid_date
-B7132,waqas.javed@example.com,,Completed,36,1.0,1550.0,JazzCash,missing_or_invalid_date
-B7195,daniyal.butt@example.com,2026-09-06,Completed,126,,2750.0,Cash on Delivery,missing_quantity
-B7216,faizan.iqbal@example.com,,Completed,114,1.0,400.0,Cash on Delivery,missing_or_invalid_date
-B7216,faizan.iqbal@example.com,,Completed,85,1.0,1000.0,Cash on Delivery,missing_or_invalid_date
-B7221,kamran.iqbal@exmaple.com,2026-09-08,Completed,145,1.0,1050.0,Easypaisa,unrecognised_email
-B7221,kamran.iqbal@exmaple.com,2026-09-08,Completed,68,1.0,1550.0,Easypaisa,unrecognised_email
-B7226,nimra.nawaz@example.com,,Completed,47,1.0,2550.0,JazzCash,missing_or_invalid_date
-B7304,sara.khan@exmaple.com,2026-09-11,Completed,129,1.0,1400.0,Cash on Delivery,unrecognised_email
-B7304,sara.khan@exmaple.com,2026-09-11,Completed,42,1.0,1150.0,Cash on Delivery,unrecognised_email
-B7306,faizan.sheikh@example.com,2026-09-11,Cancelled,150,,700.0,Cash on Delivery,missing_quantity
-B7307,ahsan.sheikh@example.com,2026-09-11,Completed,102,,500.0,Cash on Delivery,missing_quantity
-B7385,laiba.butt@exmaple.com,2026-09-13,Completed,8,3.0,900.0,JazzCash,unrecognised_email
-B7504,hassan.chaudhry@exmaple.com,2026-09-17,Completed,68,1.0,1550.0,Cash on Delivery,unrecognised_email
-B7504,hassan.chaudhry@exmaple.com,2026-09-17,Completed,124,1.0,2650.0,Cash on Delivery,unrecognised_email
-B7504,hassan.chaudhry@exmaple.com,2026-09-17,Completed,114,1.0,400.0,Cash on Delivery,unrecognised_email
-B7557,imran.rauf@example.com,2026-09-19,Completed,44,0.0,2350.0,Card,non_positive_quantity
-B7584,hamza.mirza@example.com,,Completed,134,1.0,1200.0,Card,missing_or_invalid_date
-B7584,hamza.mirza@example.com,,Completed,102,1.0,500.0,Card,missing_or_invalid_date
-B7602,zainab.raza@exmaple.com,2026-09-20,Completed,5,1.0,1250.0,Cash on Delivery,unrecognised_email
-B7612,sara.ahmed@example.com,,Completed,53,2.0,1800.0,Cash on Delivery,missing_or_invalid_date
-B7620,daniyal.ahmed@example.com,,Completed,102,2.0,500.0,Cash on Delivery,missing_or_invalid_date
-B7625,hamza.qureshi@example.com,2026-09-21,Completed,138,,1000.0,Cash on Delivery,missing_quantity
-B7653,daniyal.farooq@example.com,2026-09-22,Completed,92,0.0,900.0,Cash on Delivery,non_positive_quantity
-B7678,talha.raza@example.com,,Completed,99,1.0,500.0,JazzCash,missing_or_invalid_date
-B7678,talha.raza@example.com,,Completed,73,1.0,1050.0,JazzCash,missing_or_invalid_date
-B7680,guest5@example.com,2026-09-23,Completed,114,2.0,400.0,Cash on Delivery,unrecognised_email
-B7680,guest5@example.com,2026-09-23,Completed,9,1.0,1200.0,Cash on Delivery,unrecognised_email
-B7729,guest41@example.com,2026-09-24,Completed,120,1.0,1600.0,Cash on Delivery,unrecognised_email
-B7753,daniyal.farooq@example.com,2026-09-25,Completed,87,0.0,2000.0,JazzCash,non_positive_quantity
-B7775,kamran.baig@exmaple.com,2026-09-25,Cancelled,51,2.0,2050.0,Cash on Delivery,unrecognised_email
-B7775,kamran.baig@exmaple.com,2026-09-25,Cancelled,8,1.0,900.0,Cash on Delivery,unrecognised_email
-B7775,kamran.baig@exmaple.com,2026-09-25,Cancelled,49,1.0,2250.0,Cash on Delivery,unrecognised_email
-B7815,adeel.mirza2@example.com,2026-09-26,Completed,29,-1.0,1200.0,Card,non_positive_quantity
-B7823,noor.khan@example.com,,Completed,87,1.0,2000.0,Easypaisa,missing_or_invalid_date
-B7846,hamza.mirza@example.com,,Cancelled,24,1.0,1150.0,Cash on Delivery,missing_or_invalid_date
-B7846,hamza.mirza@example.com,,Cancelled,46,1.0,2300.0,Cash on Delivery,missing_or_invalid_date
-B7872,rabia.qureshi@exmaple.com,2026-09-27,Completed,114,2.0,400.0,Cash on Delivery,unrecognised_email
-B7962,guest21@example.com,2026-09-30,Completed,104,1.0,800.0,JazzCash,unrecognised_email
-B7962,guest21@example.com,2026-09-30,Completed,60,1.0,1300.0,JazzCash,unrecognised_email
-B7981,faizan.aslam3@example.com,2026-09-30,Completed,100,,800.0,Cash on Delivery,missing_quantity
+B5037,guest33@example.com,2026-04-04,Completed,70,2.0,850.0,Card,unrecognised_email
+B5037,guest33@example.com,2026-04-04,Completed,6,1.0,1500.0,Card,unrecognised_email
+B5059,adeel.nawaz2@example.com,,Completed,138,2.0,1750.0,Cash on Delivery,missing_or_invalid_date
+B5154,adeel.butt2@example.com,2026-04-18,Completed,37,-1.0,1350.0,Cash on Delivery,non_positive_quantity
+B5163,rehan.farooq3@exmaple.com,2026-04-19,Completed,72,1.0,650.0,JazzCash,unrecognised_email
+B5163,rehan.farooq3@exmaple.com,2026-04-19,Completed,27,1.0,1050.0,JazzCash,unrecognised_email
+B5209,guest11@example.com,2026-04-24,Completed,98,3.0,700.0,Cash on Delivery,unrecognised_email
+B5216,sana.baig2@example.com,2026-04-25,Cancelled,149,-1.0,1350.0,Cash on Delivery,non_positive_quantity
+B5221,hamza.rauf@exmaple.com,2026-04-25,Completed,92,2.0,1200.0,JazzCash,unrecognised_email
+B5221,hamza.rauf@exmaple.com,2026-04-25,Completed,20,1.0,1450.0,JazzCash,unrecognised_email
+B5227,ahsan.baig2@exmaple.com,2026-04-26,Completed,96,1.0,950.0,Cash on Delivery,unrecognised_email
+B5227,ahsan.baig2@exmaple.com,2026-04-26,Completed,64,1.0,1500.0,Cash on Delivery,unrecognised_email
+B5282,talha.nawaz2@exmaple.com,2026-05-02,Completed,6,2.0,1500.0,JazzCash,unrecognised_email
+B5355,talha.nawaz2@example.com,2026-05-08,Completed,32,,2450.0,Easypaisa,missing_quantity
+B5358,guest13@example.com,2026-05-09,Completed,72,2.0,650.0,Cash on Delivery,unrecognised_email
+B5358,guest13@example.com,2026-05-09,Completed,41,1.0,1700.0,Cash on Delivery,unrecognised_email
+B5379,guest17@example.com,2026-05-10,Completed,42,1.0,2150.0,Card,unrecognised_email
+B5379,guest17@example.com,2026-05-10,Completed,130,2.0,1050.0,Card,unrecognised_email
+B5379,guest17@example.com,2026-05-10,Completed,63,1.0,900.0,Card,unrecognised_email
+B5386,guest35@example.com,2026-05-10,Completed,72,1.0,650.0,Card,unrecognised_email
+B5386,guest35@example.com,2026-05-10,Completed,33,1.0,1850.0,Card,unrecognised_email
+B5587,guest21@example.com,2026-05-26,Completed,122,1.0,2350.0,Cash on Delivery,unrecognised_email
+B5587,guest21@example.com,2026-05-26,Completed,132,1.0,950.0,Cash on Delivery,unrecognised_email
+B5609,guest23@example.com,2026-05-28,Completed,93,1.0,450.0,Cash on Delivery,unrecognised_email
+B5623,bilal.baig@exmaple.com,2026-05-30,Completed,138,1.0,1750.0,JazzCash,unrecognised_email
+B5629,imran.shah@example.com,2026-05-31,Completed,89,0.0,1300.0,JazzCash,non_positive_quantity
+B5647,daniyal.khan4@example.com,2026-06-02,Completed,149,0.0,1350.0,Cash on Delivery,non_positive_quantity
+B5718,maryam.malik3@example.com,,Completed,131,3.0,1050.0,Easypaisa,missing_or_invalid_date
+B5736,kamran.iqbal5@example.com,2026-06-09,Completed,85,-1.0,1600.0,Cash on Delivery,non_positive_quantity
+B5752,guest31@example.com,2026-06-10,Cancelled,148,2.0,1150.0,Cash on Delivery,unrecognised_email
+B5766,usman.farooq2@example.com,2026-06-13,Completed,37,0.0,1350.0,Card,non_positive_quantity
+B5768,bilal.mirza3@example.com,2026-06-13,Completed,66,,1250.0,Easypaisa,missing_quantity
+B5801,usman.farooq2@exmaple.com,2026-06-15,Completed,120,1.0,2500.0,Card,unrecognised_email
+B5801,usman.farooq2@exmaple.com,2026-06-15,Completed,97,2.0,400.0,Card,unrecognised_email
+B5809,imran.siddiqui2@example.com,2026-06-15,Completed,127,-1.0,1700.0,JazzCash,non_positive_quantity
+B5994,kamran.shah@example.com,2026-07-02,Completed,112,,450.0,Cash on Delivery,missing_quantity
+B6017,sana.qureshi2@example.com,,Completed,25,2.0,1350.0,Easypaisa,missing_or_invalid_date
+B6025,rabia.shah@exmaple.com,2026-07-04,Completed,71,2.0,1600.0,Easypaisa,unrecognised_email
+B6025,rabia.shah@exmaple.com,2026-07-04,Completed,85,1.0,1600.0,Easypaisa,unrecognised_email
+B6027,adeel.qureshi@example.com,,Completed,148,2.0,1150.0,Card,missing_or_invalid_date
+B6097,guest3@example.com,2026-07-08,Completed,51,1.0,1650.0,Cash on Delivery,unrecognised_email
+B6106,ahsan.mirza2@example.com,,Completed,85,1.0,1600.0,Cash on Delivery,missing_or_invalid_date
+B6131,areeba.iqbal3@example.com,,Completed,148,2.0,1150.0,Cash on Delivery,missing_or_invalid_date
+B6131,areeba.iqbal3@example.com,,Completed,84,1.0,1150.0,Cash on Delivery,missing_or_invalid_date
+B6131,areeba.iqbal3@example.com,,Completed,146,1.0,800.0,Cash on Delivery,missing_or_invalid_date
+B6131,areeba.iqbal3@example.com,,Completed,61,1.0,700.0,Cash on Delivery,missing_or_invalid_date
+B6146,saad.butt@example.com,,Completed,118,1.0,1300.0,Card,missing_or_invalid_date
+B6147,ahsan.javed@example.com,,Completed,36,1.0,2200.0,Cash on Delivery,missing_or_invalid_date
+B6147,ahsan.javed@example.com,,Completed,85,1.0,1600.0,Cash on Delivery,missing_or_invalid_date
+B6159,bilal.baig@exmaple.com,2026-07-13,Completed,105,1.0,1050.0,Cash on Delivery,unrecognised_email
+B6159,bilal.baig@exmaple.com,2026-07-13,Completed,129,1.0,1250.0,Cash on Delivery,unrecognised_email
+B6187,ahsan.javed4@example.com,,Completed,106,0.0,1150.0,Cash on Delivery,missing_or_invalid_date
+B6187,ahsan.javed4@example.com,,Completed,21,1.0,850.0,Cash on Delivery,missing_or_invalid_date
+B6187,ahsan.javed4@example.com,,Completed,149,1.0,1350.0,Cash on Delivery,missing_or_invalid_date
+B6190,iqra.iqbal@example.com,2026-07-15,Completed,122,,2350.0,Cash on Delivery,missing_quantity
+B6192,mehak.ahmed@example.com,,Completed,33,1.0,1850.0,Card,missing_or_invalid_date
+B6199,imran.mirza4@example.com,2026-07-16,Completed,149,,1350.0,Easypaisa,missing_quantity
+B6215,bilal.baig@example.com,2026-07-17,Completed,13,,1200.0,Cash on Delivery,missing_quantity
+B6219,guest41@example.com,2026-07-17,Completed,81,1.0,1200.0,Cash on Delivery,unrecognised_email
+B6225,bilal.mirza3@exmaple.com,2026-07-17,Completed,90,1.0,1650.0,JazzCash,unrecognised_email
+B6225,bilal.mirza3@exmaple.com,2026-07-17,Completed,99,1.0,800.0,JazzCash,unrecognised_email
+B6225,bilal.mirza3@exmaple.com,2026-07-17,Completed,120,1.0,2500.0,JazzCash,unrecognised_email
+B6250,laiba.farooq@exmaple.com,2026-07-19,Completed,66,1.0,1250.0,Cash on Delivery,unrecognised_email
+B6250,laiba.farooq@exmaple.com,2026-07-19,Completed,115,1.0,1200.0,Cash on Delivery,unrecognised_email
+B6278,waqas.butt2@example.com,,Cancelled,146,1.0,800.0,Cash on Delivery,missing_or_invalid_date
+B6299,kamran.farooq@example.com,2026-07-22,Completed,79,-1.0,1400.0,Cash on Delivery,non_positive_quantity
+B6323,guest27@example.com,2026-07-23,Completed,102,1.0,700.0,Cash on Delivery,unrecognised_email
+B6323,guest27@example.com,2026-07-23,Completed,149,1.0,1350.0,Cash on Delivery,unrecognised_email
+B6323,guest27@example.com,2026-07-23,Completed,118,2.0,1300.0,Cash on Delivery,unrecognised_email
+B6334,zara.malik2@example.com,2026-07-24,Completed,148,-1.0,1150.0,Cash on Delivery,non_positive_quantity
+B6343,bilal.mirza@example.com,,Completed,84,1.0,1150.0,Easypaisa,missing_or_invalid_date
+B6356,ahsan.ahmed2@exmaple.com,2026-07-25,Completed,47,1.0,950.0,Cash on Delivery,unrecognised_email
+B6356,ahsan.ahmed2@exmaple.com,2026-07-25,Completed,24,1.0,750.0,Cash on Delivery,unrecognised_email
+B6356,ahsan.ahmed2@exmaple.com,2026-07-25,Completed,62,1.0,1350.0,Cash on Delivery,unrecognised_email
+B6356,ahsan.ahmed2@exmaple.com,2026-07-25,Completed,51,1.0,1650.0,Cash on Delivery,unrecognised_email
+B6361,rehan.mirza@example.com,,Completed,72,1.0,650.0,Cash on Delivery,missing_or_invalid_date
+B6392,zara.anwar@example.com,,Completed,51,1.0,1650.0,Card,missing_or_invalid_date
+B6392,zara.anwar@example.com,,Completed,87,1.0,2000.0,Card,missing_or_invalid_date
+B6396,waqas.butt2@example.com,,Completed,49,1.0,1650.0,Easypaisa,missing_or_invalid_date
+B6455,nimra.raza@example.com,,Cancelled,54,1.0,1600.0,Cash on Delivery,missing_or_invalid_date
+B6455,nimra.raza@example.com,,Cancelled,146,1.0,800.0,Cash on Delivery,missing_or_invalid_date
+B6461,daniyal.khan4@example.com,,Completed,51,1.0,1650.0,Cash on Delivery,missing_or_invalid_date
+B6501,noor.farooq@example.com,2026-08-03,Completed,29,,900.0,JazzCash,missing_quantity
+B6564,guest29@example.com,2026-08-06,Completed,66,1.0,1250.0,Cash on Delivery,unrecognised_email
+B6564,guest29@example.com,2026-08-06,Completed,134,1.0,750.0,Cash on Delivery,unrecognised_email
+B6629,hassan.qureshi@example.com,2026-08-09,Completed,91,0.0,1100.0,Card,non_positive_quantity
+B6666,guest37@example.com,2026-08-11,Completed,135,1.0,1700.0,Card,unrecognised_email
+B6666,guest37@example.com,2026-08-11,Completed,19,1.0,1150.0,Card,unrecognised_email
+B6691,hassan.javed@exmaple.com,2026-08-12,Completed,41,1.0,1700.0,Cash on Delivery,unrecognised_email
+B6691,hassan.javed@exmaple.com,2026-08-12,Completed,73,1.0,850.0,Cash on Delivery,unrecognised_email
+B6691,hassan.javed@exmaple.com,2026-08-12,Completed,85,1.0,1600.0,Cash on Delivery,unrecognised_email
+B6707,zainab.raza2@example.com,,Completed,98,1.0,700.0,JazzCash,missing_or_invalid_date
+B6720,talha.raza4@example.com,2026-08-13,Completed,38,,1450.0,Cash on Delivery,missing_quantity
+B6788,areeba.iqbal3@example.com,2026-08-16,Completed,48,,1600.0,JazzCash,missing_quantity
+B6801,mehak.sheikh@example.com,2026-08-16,Completed,125,0.0,2450.0,JazzCash,non_positive_quantity
+B6808,maryam.anwar2@example.com,,Completed,76,1.0,1750.0,Cash on Delivery,missing_or_invalid_date
+B6808,maryam.anwar2@example.com,,Completed,20,1.0,1450.0,Cash on Delivery,missing_or_invalid_date
+B6863,guest39@example.com,2026-08-19,Completed,101,1.0,1150.0,Cash on Delivery,unrecognised_email
+B6877,saad.anwar@exmaple.com,2026-08-20,Completed,103,1.0,900.0,Cash on Delivery,unrecognised_email
+B6877,saad.anwar@exmaple.com,2026-08-20,Completed,122,1.0,2350.0,Cash on Delivery,unrecognised_email
+B6877,saad.anwar@exmaple.com,2026-08-20,Completed,73,2.0,850.0,Cash on Delivery,unrecognised_email
+B6877,saad.anwar@exmaple.com,2026-08-20,Completed,146,2.0,800.0,Cash on Delivery,unrecognised_email
+B6914,zainab.mirza@exmaple.com,2026-08-22,Completed,104,1.0,850.0,Cash on Delivery,unrecognised_email
+B6914,zainab.mirza@exmaple.com,2026-08-22,Completed,1,1.0,950.0,Cash on Delivery,unrecognised_email
+B6914,zainab.mirza@exmaple.com,2026-08-22,Completed,52,1.0,1400.0,Cash on Delivery,unrecognised_email
+B7012,hina.hussain4@example.com,,Completed,103,2.0,900.0,Cash on Delivery,missing_or_invalid_date
+B7012,hina.hussain4@example.com,,Completed,12,1.0,1650.0,Cash on Delivery,missing_or_invalid_date
+B7018,guest1@example.com,2026-08-26,Completed,38,1.0,1450.0,Card,unrecognised_email
+B7019,usman.farooq4@exmaple.com,2026-08-26,Completed,105,1.0,1050.0,Cash on Delivery,unrecognised_email
+B7019,usman.farooq4@exmaple.com,2026-08-26,Completed,116,2.0,2050.0,Cash on Delivery,unrecognised_email
+B7019,usman.farooq4@exmaple.com,2026-08-26,Completed,112,2.0,450.0,Cash on Delivery,unrecognised_email
+B7019,usman.farooq4@exmaple.com,2026-08-26,Completed,107,1.0,400.0,Cash on Delivery,unrecognised_email
+B7045,usman.farooq@exmaple.com,2026-08-27,Cancelled,108,1.0,500.0,Card,unrecognised_email
+B7046,rehan.ahmed@example.com,2026-08-27,Completed,72,,650.0,Card,missing_quantity
+B7049,nimra.siddiqui@example.com,2026-08-28,Completed,95,0.0,850.0,Easypaisa,non_positive_quantity
+B7066,zara.aslam@example.com,2026-08-28,Completed,34,,2100.0,Cash on Delivery,missing_quantity
+B7091,hassan.malik@example.com,2026-08-29,Returned,50,-1.0,900.0,Cash on Delivery,non_positive_quantity
+B7115,adeel.mirza4@example.com,,Completed,64,1.0,1500.0,Cash on Delivery,missing_or_invalid_date
+B7115,adeel.mirza4@example.com,,Completed,95,1.0,850.0,Cash on Delivery,missing_or_invalid_date
+B7147,zainab.malik3@example.com,2026-08-31,Completed,27,,1050.0,Cash on Delivery,missing_quantity
+B7150,hina.baig@example.com,,Completed,120,2.0,2500.0,Card,missing_or_invalid_date
+B7170,kamran.iqbal5@exmaple.com,2026-09-01,Completed,66,1.0,1250.0,Cash on Delivery,unrecognised_email
+B7170,kamran.iqbal5@exmaple.com,2026-09-01,Completed,72,1.0,650.0,Cash on Delivery,unrecognised_email
+B7170,kamran.iqbal5@exmaple.com,2026-09-01,Completed,149,2.0,1350.0,Cash on Delivery,unrecognised_email
+B7189,usman.anwar@example.com,2026-09-02,Completed,82,,1450.0,Cash on Delivery,missing_quantity
+B7198,guest7@example.com,2026-09-02,Completed,141,1.0,1500.0,Cash on Delivery,unrecognised_email
+B7211,saad.malik2@example.com,2026-09-03,Completed,79,0.0,1400.0,Cash on Delivery,non_positive_quantity
+B7269,saad.raza3@example.com,2026-09-05,Returned,4,,750.0,Cash on Delivery,missing_quantity
+B7318,guest5@example.com,2026-09-07,Completed,127,1.0,1700.0,Cash on Delivery,unrecognised_email
+B7318,guest5@example.com,2026-09-07,Completed,71,1.0,1600.0,Cash on Delivery,unrecognised_email
+B7327,guest9@example.com,2026-09-08,Completed,146,1.0,800.0,Cash on Delivery,unrecognised_email
+B7327,guest9@example.com,2026-09-08,Completed,105,1.0,1050.0,Cash on Delivery,unrecognised_email
+B7332,nimra.hussain@example.com,2026-09-08,Completed,108,0.0,500.0,Cash on Delivery,non_positive_quantity
+B7358,daniyal.nawaz3@example.com,2026-09-09,Completed,8,-1.0,1750.0,Cash on Delivery,non_positive_quantity
+B7373,adeel.baig@exmaple.com,2026-09-10,Completed,33,1.0,1850.0,Cash on Delivery,unrecognised_email
+B7380,waqas.aslam3@example.com,2026-09-10,Completed,72,-1.0,650.0,Card,non_positive_quantity
+B7469,laiba.chaudhry@example.com,,Completed,85,1.0,1600.0,Cash on Delivery,missing_or_invalid_date
+B7469,laiba.chaudhry@example.com,,Completed,37,1.0,1350.0,Cash on Delivery,missing_or_invalid_date
+B7507,daniyal.nawaz4@example.com,2026-09-14,Completed,45,,2250.0,Card,missing_quantity
+B7511,waqas.butt2@example.com,2026-09-15,Returned,62,0.0,1350.0,Card,non_positive_quantity
+B7516,fatima.anwar2@example.com,,Completed,111,1.0,1050.0,Cash on Delivery,missing_or_invalid_date
+B7516,fatima.anwar2@example.com,,Completed,31,1.0,1900.0,Cash on Delivery,missing_or_invalid_date
+B7525,laiba.khan2@exmaple.com,2026-09-16,Completed,32,1.0,2450.0,Cash on Delivery,unrecognised_email
+B7525,laiba.khan2@exmaple.com,2026-09-16,Completed,64,2.0,1500.0,Cash on Delivery,unrecognised_email
+B7538,guest25@example.com,2026-09-16,Completed,120,2.0,2500.0,Cash on Delivery,unrecognised_email
+B7540,adeel.raza@example.com,2026-09-16,Completed,98,,700.0,Card,missing_quantity
+B7580,hamza.chaudhry@exmaple.com,2026-09-17,Completed,107,1.0,400.0,Cash on Delivery,unrecognised_email
+B7580,hamza.chaudhry@exmaple.com,2026-09-17,Completed,20,1.0,1450.0,Cash on Delivery,unrecognised_email
+B7584,hamza.rauf@example.com,2026-09-18,Completed,95,,850.0,Cash on Delivery,missing_quantity
+B7588,talha.ahmed4@example.com,2026-09-18,Completed,72,0.0,650.0,JazzCash,non_positive_quantity
+B7591,hina.hussain4@example.com,,Completed,107,1.0,400.0,Cash on Delivery,missing_or_invalid_date
+B7591,hina.hussain4@example.com,,Completed,55,2.0,2550.0,Cash on Delivery,missing_or_invalid_date
+B7591,hina.hussain4@example.com,,Completed,79,1.0,1400.0,Cash on Delivery,missing_or_invalid_date
+B7700,guest15@example.com,2026-09-22,Completed,92,1.0,1200.0,JazzCash,unrecognised_email
+B7740,daniyal.mirza3@exmaple.com,2026-09-24,Completed,120,3.0,2500.0,Easypaisa,unrecognised_email
+B7740,daniyal.mirza3@exmaple.com,2026-09-24,Completed,100,1.0,1050.0,Easypaisa,unrecognised_email
+B7766,mehak.aslam@example.com,,Cancelled,97,1.0,400.0,Cash on Delivery,missing_or_invalid_date
+B7766,mehak.aslam@example.com,,Cancelled,89,1.0,1300.0,Cash on Delivery,missing_or_invalid_date
+B7766,mehak.aslam@example.com,,Cancelled,110,3.0,1000.0,Cash on Delivery,missing_or_invalid_date
+B7781,talha.raza3@example.com,2026-09-25,Completed,8,,1750.0,Cash on Delivery,missing_quantity
+B7825,fatima.khan@example.com,,Completed,101,2.0,1150.0,Cash on Delivery,missing_or_invalid_date
+B7827,fatima.khan@example.com,,Completed,85,,1600.0,Cash on Delivery,missing_or_invalid_date
+B7827,fatima.khan@example.com,,Completed,107,3.0,400.0,Cash on Delivery,missing_or_invalid_date
+B7827,fatima.khan@example.com,,Completed,115,1.0,1200.0,Cash on Delivery,missing_or_invalid_date
+B7827,fatima.khan@example.com,,Completed,61,1.0,700.0,Cash on Delivery,missing_or_invalid_date
+B7839,daniyal.khan4@example.com,2026-09-27,Completed,8,0.0,1750.0,Cash on Delivery,non_positive_quantity
+B7873,guest43@example.com,2026-09-28,Returned,17,1.0,1300.0,Easypaisa,unrecognised_email
+B7915,guest19@example.com,2026-09-29,Completed,103,2.0,900.0,Cash on Delivery,unrecognised_email
+B7927,hina.malik3@exmaple.com,2026-09-29,Completed,85,1.0,1600.0,Card,unrecognised_email
+B7943,hina.malik3@example.com,,Completed,34,1.0,2100.0,Easypaisa,missing_or_invalid_date
+B7987,talha.raza3@exmaple.com,2026-09-30,Completed,64,2.0,1500.0,Cash on Delivery,unrecognised_email
+B7987,talha.raza3@exmaple.com,2026-09-30,Completed,35,1.0,1800.0,Cash on Delivery,unrecognised_email
+B7997,hamza.nawaz2@example.com,,Completed,20,2.0,1450.0,Cash on Delivery,missing_or_invalid_date
+B7997,hamza.nawaz2@example.com,,Completed,118,1.0,1300.0,Cash on Delivery,missing_or_invalid_date

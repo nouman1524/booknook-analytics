@@ -2,19 +2,19 @@
   "seed": 42,
   "clean_totals": {
     "orders": 3000,
-    "order_lines": 4998,
-    "gross_revenue_pkr": 7595250
+    "order_lines": 5016,
+    "gross_revenue_pkr": 7694800
   },
   "injected_issues": {
     "orders_unrecognised_email": 45,
     "orders_missing_date": 30,
-    "orders_email_case_or_spaces": 173,
-    "orders_non_iso_date_format": 627,
-    "orders_status_spelling_variants": 291,
-    "lines_missing_quantity": 20,
-    "lines_zero_or_negative_quantity": 15,
-    "lines_missing_unit_price_recoverable": 74,
+    "orders_email_case_or_spaces": 181,
+    "orders_non_iso_date_format": 684,
+    "orders_status_spelling_variants": 305,
+    "lines_missing_quantity": 19,
+    "lines_zero_or_negative_quantity": 21,
+    "lines_missing_unit_price_recoverable": 76,
     "duplicate_rows_added": 60
   },
-  "raw_rows_written": 5058
+  "raw_rows_written": 5076
 }
